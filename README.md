@@ -4,7 +4,8 @@
 Space Invader game made with C.
  
 # DEMO
- 
+ ![spaceinvader](https://user-images.githubusercontent.com/77357587/188393187-9cb698bc-acf5-450c-b893-b0b6f0347ab5.png)
+
 # Requirement
  
 * HandyGraphic
